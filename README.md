@@ -6,7 +6,7 @@ Track the amount of water you drank.
 npm install water_tracker
 ```
 
-json file will be created in $HOME/.npm/water_tracker at startup.
+json file will be created at startup.
 
 # usage
 ```
