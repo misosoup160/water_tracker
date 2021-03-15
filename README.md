@@ -2,7 +2,9 @@
 Track the amount of water you drank.
 
 # install
-`npm install water_tracker`
+```
+npm install water_tracker
+```
 
 json file will be created in $HOME/.npm/water_tracker at startup.
 
