@@ -3,13 +3,16 @@ Track the amount of water you drank.
 
 # install
 `npm install water_tracker`
+
 json file will be created in $HOME/.npm/water_tracker at startup.
 
 # usage
-`water_tracker [option]`
+```
+water_tracker [option]
+```
 
 You can record the amount of water you drank.
-The amount of water will be reset automatically the next day.
+Total amount of water will be reset automatically the next day.
 ```
 $ water_tracker
 ? 飲んだ水の量を入力してください(ml) 200
