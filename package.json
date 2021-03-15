@@ -1,0 +1,30 @@
+{
+  "name": "water_tracker",
+  "version": "1.0.0",
+  "description": "Track the amount of water you drank.",
+  "main": "index.js",
+  "bin": {
+    "water_tracker": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misosoup160/water_tracker.git"
+  },
+  "keywords": [
+    "water"
+  ],
+  "author": "misosoup160",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misosoup160/water_tracker/issues"
+  },
+  "homepage": "https://github.com/misosoup160/water_tracker#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.1.0",
+    "inquirer": "^8.0.0"
+  }
+}
